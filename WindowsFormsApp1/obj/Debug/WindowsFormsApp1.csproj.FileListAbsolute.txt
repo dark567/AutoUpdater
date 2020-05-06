@@ -1,0 +1,15 @@
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\update.xml
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoUpdater.dll
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoUpdater.pdb
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\AutoUpdater.resources.dll
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

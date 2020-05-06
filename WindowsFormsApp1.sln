@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{988190D0-C8B9-4D1C-9800-FE65EE5AB7FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdater", "AutoUpdater\AutoUpdater.csproj", "{29886D47-D7DF-45B9-9CF9-09F57E8E2363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988190D0-C8B9-4D1C-9800-FE65EE5AB7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988190D0-C8B9-4D1C-9800-FE65EE5AB7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988190D0-C8B9-4D1C-9800-FE65EE5AB7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988190D0-C8B9-4D1C-9800-FE65EE5AB7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29886D47-D7DF-45B9-9CF9-09F57E8E2363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29886D47-D7DF-45B9-9CF9-09F57E8E2363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29886D47-D7DF-45B9-9CF9-09F57E8E2363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29886D47-D7DF-45B9-9CF9-09F57E8E2363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC6E5282-9F3F-417D-A348-631CDC22ECF0}
+	EndGlobalSection
+EndGlobal

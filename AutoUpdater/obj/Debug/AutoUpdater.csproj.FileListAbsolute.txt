@@ -1,0 +1,16 @@
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\bin\Debug\AutoUpdater.dll
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\bin\Debug\AutoUpdater.pdb
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\bin\Debug\ru\AutoUpdater.resources.dll
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\obj\Debug\AutoUpdater.csprojAssemblyReference.cache
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\obj\Debug\AutoUpdater.DownloadUpdateDialog.resources
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\obj\Debug\AutoUpdater.Properties.Resources.resources
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\obj\Debug\AutoUpdater.RemindLaterForm.resources
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\obj\Debug\AutoUpdater.UpdateForm.resources
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\obj\Debug\AutoUpdater.DownloadUpdateDialog.ru.resources
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\obj\Debug\AutoUpdater.RemindLaterForm.ru.resources
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\obj\Debug\AutoUpdater.UpdateForm.ru.resources
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\obj\Debug\AutoUpdater.csproj.GenerateResource.cache
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\obj\Debug\AutoUpdater.csproj.CoreCompileInputs.cache
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\obj\Debug\ru\AutoUpdater.resources.dll
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\obj\Debug\AutoUpdater.dll
+D:\project\c#\terra\20200122\updater\test\WindowsFormsApp1\AutoUpdater\obj\Debug\AutoUpdater.pdb
